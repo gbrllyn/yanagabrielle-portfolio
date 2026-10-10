@@ -1,0 +1,27 @@
+# Node dependencies
+**/node_modules/
+
+# Frontend build output
+**/dist/
+**/wwwroot-built/
+
+# .NET build output
+**/bin/
+**/obj/
+
+# Visual Studio settings
+.vs/
+*.user
+*.suo
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
