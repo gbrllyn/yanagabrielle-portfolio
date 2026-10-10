@@ -7,8 +7,9 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "build": "vite build --config vite.config.js"
-  },
+  "build": "vite build --config vite.config.js",
+  "build:static": "vite build --config vite.static.config.js"
+},
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

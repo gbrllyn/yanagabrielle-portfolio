@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [tailwindcss()],
   base: "./",
   build: {
-    outDir: fileURLToPath(new URL("./wwwroot-built", import.meta.url)),
+    outDir: "dist",
     emptyOutDir: true,
     rollupOptions: {
       input: fileURLToPath(new URL("./wwwroot/js/site.js", import.meta.url)),
