@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YanaPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c4423458dfd965823b2456e54483f862010df79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97a95b698f2b6625b6c6c648e3da964ba53b1a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("YanaPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YanaPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
